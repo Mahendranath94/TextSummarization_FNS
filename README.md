@@ -10,10 +10,11 @@ Created a specialized annotated dataset for supervised learning and used the ann
 https://huggingface.co/spaces/Mahendranath/nlp-ts
 ## Run Locally
 
-Download the files
+Download the files (*you require to download this folder even for running .ipynb file*)
 
 ```bash
   https://drive.google.com/drive/folders/10I830XoPm9ZVwOehBqFPuW4hdTpJPREp?usp=sharing!
+
 ```
 
 Go to the project directory
