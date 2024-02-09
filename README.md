@@ -33,4 +33,4 @@ Start the Streamlit
 ```bash
   streamlit run app.py
 ```
-
+### **MAKE SURE TO CHANGE THE PATH OF EACH FILE ACCORDING TO THE PATH YOU STORED THEM**
