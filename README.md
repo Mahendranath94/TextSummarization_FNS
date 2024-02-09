@@ -6,8 +6,10 @@ Created a specialized annotated dataset for supervised learning and used the ann
 
 ## Link to demo
 
-
 https://huggingface.co/spaces/Mahendranath/nlp-ts
+
+*Refresh* the page if you get any error related to importing.
+
 ## Run Locally
 
 Download the files (*you require to download this folder even for running .ipynb file*)
