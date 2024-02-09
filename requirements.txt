@@ -1,0 +1,10 @@
+pandas
+tqdm
+regex
+nltk
+rouge_score
+bert-score
+transformers[torch]
+torch
+numpy
+streamlit
