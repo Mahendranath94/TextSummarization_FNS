@@ -267,7 +267,7 @@ if st.button("Submit"):
     }
     summary = ""
     for j in range(len(sorted_dict["Sentenece"])):
-        if len(word_tokenize(summary)) < 200:
+        if len(word_tokenize(summary)) < 1000:
             summary += sorted_dict["Sentenece"][j]
             output["Sentence"].append(sorted_dict["Sentenece"][j])
             output["sentence_id"].append(sorted_dict["sentence_id"][j])
